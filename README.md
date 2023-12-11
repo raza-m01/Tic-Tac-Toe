@@ -42,6 +42,8 @@ No installation is required. Simply open the `index.html` file in a web browser 
 
 Feel free to contribute to the development of this Tic Tac Toe game. You can fork the repository, make changes, and submit a pull request.
 
+## Screenshot
+
 ![Screenshot (876)](https://github.com/raza-m01/Tic-Tac-Toe/assets/113848902/eb2b2d31-d12b-4c18-bcb6-57cb7ceff0df)
 ![Screenshot (877)](https://github.com/raza-m01/Tic-Tac-Toe/assets/113848902/c8744a2c-799b-4d27-9435-79aad68e8b30)
 ![Screenshot (878)](https://github.com/raza-m01/Tic-Tac-Toe/assets/113848902/0995ba65-ac8d-414d-a76d-4b7d105cfef6)
