@@ -13,7 +13,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using HT
 ## Introduction
 
 Tic Tac Toe is a two-player game where the players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
-**[View and Play the Game](https://chipper-bienenstitch-542ee5.netlify.app/){:target="_blank"}**
+**[View and Play the Game](https://chipper-bienenstitch-542ee5.netlify.app/)**
 
 ## Features
 
